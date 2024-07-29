@@ -1,0 +1,29 @@
+/*  font-family: "Alfa Slab One", serif; */
+/*   font-family: "Open Sans", sans-serif; */
+
+footer{
+    background-color: red;
+    
+}
+h1,
+h2 {
+    font-family: "Alfa Slab One", cursive;
+   
+}
+.hero{
+    background: black;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 600px;
+    color: white;
+}
+.card{
+    margin: 50px;
+    display: inline-flex;
+    flex-direction: row;
+    
+}
+.card-body{
+    margin: 20px;
+
+}
